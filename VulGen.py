@@ -219,7 +219,7 @@ def main():
     #sys.argv.append('-s scenarios/default.xml')
 
     print('~' * 47)
-    print('SecGen - Creates virtualised security scenarios')
+    print('VulGen - Creates virtualised security scenarios')
     print('            Licensed GPLv3 2014-18')
     print('~'*47)
 
