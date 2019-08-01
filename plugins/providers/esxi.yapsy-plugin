@@ -1,0 +1,9 @@
+[Core]
+Name = ESXi
+Module = esxi
+
+[Documentation]
+Author = Randall Bryant
+Version = 0.1
+Website = N/A
+Description = ESXi provider plugin for SecGen

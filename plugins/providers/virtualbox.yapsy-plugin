@@ -1,0 +1,9 @@
+[Core]
+Name = Virtualbox
+Module = virtualbox
+
+[Documentation]
+Author = Randall Bryant
+Version = 0.1
+Website = N/A
+Description = Virtualbox provider plugin for SecGen
